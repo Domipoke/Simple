@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "electron": "^16.0.7"
+  },
+  "name": "simple",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
